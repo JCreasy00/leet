@@ -4,7 +4,7 @@
 
 # binary search is O(log n)
 
-
+ 
 def searchInsert(self, nums: List[int], target: int) -> int:
         left = 0
         right = len(nums) - 1
